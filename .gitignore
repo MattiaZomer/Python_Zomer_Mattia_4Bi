@@ -1,0 +1,11 @@
+-_pycache-_/
+*.pyc
+
+.venv/
+venv/
+
+.ipynb_checkpoints/
+
+Thumbs.db
+desktop.ini
+*.tmp
