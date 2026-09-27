@@ -13,7 +13,7 @@ Receiving objects: 100% (31/31), done.
 Resolving deltas: 100% (3/3), done.
 ```
 
-Non ho effettuato i comandi perché quando uso il clone di default mi fa partire dal main:
+Non ho effettuato i seguenti comandi perché quando uso il clone di default mi fa partire dal main:
 - git remote add origin git@github.com:rossi/lab-info-4bi-rossi.git
 - git branch -M main
 - git push -u origin main
