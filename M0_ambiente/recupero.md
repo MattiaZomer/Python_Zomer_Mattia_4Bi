@@ -54,4 +54,4 @@ Mode                 LastWriteTime         Length Name
 ```
 
 ## Come mai .gitignore non agisce sui file già creati
-Il file .gitignore non è retroattivo, cioè non va a modificare i vecchi commit eliminando la traccia di determinate modifiche o file. Il file infatti agisce esclusivamente sui file cosiddetti "untracked" ovvero file di cui non sono ancora presenti commit. Perciò se si crea un file, si fa il commit di quest'ultimo e solo DOPO lo si aggiunge nel gitignore, verrà comunque tracciato.
+Il file .gitignore non è retroattivo, cioè non va a modificare i vecchi commit eliminando la traccia di determinate modifiche o file. Il file infatti agisce esclusivamente sui file cosiddetti "untracked" ovvero file di cui non sono ancora presenti commit o che non sono presente nell'area di stage. Perciò se si crea un file, si fa il commit di quest'ultimo e solo DOPO lo si aggiunge nel gitignore, verrà comunque tracciato.
