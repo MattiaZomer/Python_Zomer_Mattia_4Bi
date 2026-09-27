@@ -10,3 +10,5 @@ x64
 
 ```git --version```  
 git version 2.47.0.windows.1
+
+### modifica richiesta dall'esercizio 12
