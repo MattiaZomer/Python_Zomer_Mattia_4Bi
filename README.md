@@ -42,3 +42,5 @@ Versione 3.13.0
 
 ### _Note_
 _Dal momento che avevo già creato la repository al momento del commit per il quinto esercizio, ho deciso di utilizzare la stessa piuttosto che crearne una nuova inutilmente_
+
+### modifica richiesta dall'esercizio 12
