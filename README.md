@@ -7,7 +7,7 @@ Il repository è organizzato per argomenti, ovvero per moduli. A ogni modulo è 
 > M`<`modulo`>`_`<`argomento`>`
 
 All'interno di ogni cartella destinata agli argomenti sono presenti tutti i file e tutta la documentazione richiesta dagli esercizi presenti nel pdf chiamato 
-> M`<`modulo`>`_esercizi
+> M`<`modulo`>`_Esercizi
 
 ### Struttura delle directories
 ```
@@ -28,6 +28,7 @@ In questo repository si possono trovare file:
 - .py (Python)
 - .ipynb (notebook Jupyter)
 - .md (Markdown)
+- .pdf
 
 ### Versioni di software e linguaggi utilizzati
 #### Visual Studio Code
