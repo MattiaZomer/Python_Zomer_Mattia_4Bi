@@ -6,6 +6,8 @@ venv/
 
 .ipynb_checkpoints/
 
+M0_ambiente/temporanei/
+
 Thumbs.db
 desktop.ini
 *.tmp
