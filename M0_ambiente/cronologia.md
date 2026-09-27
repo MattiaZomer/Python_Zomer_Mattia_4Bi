@@ -25,7 +25,7 @@ f8fecb9 Fri Sep 25 01:37:36 2026 +0200 Mattia Zomer feat: esercizio 7 gitignore 
 ```
 
 ## commit 8fe4d0a
-Questo commit è stato fatto con lo scopo di aggiungere l'esercizio 5 finito. Ho messo un punto esclamativo perché durante lo svoglimento dell'esercizio ho usato un metodo diverso da quello indicato nella consegna per raggiungere prima il risultato richiesto (vedi file es5-comandi.md).
+Questo commit è stato fatto con lo scopo di aggiungere l'esercizio 5 finito. Ho messo un punto esclamativo perché durante lo svoglimento dell'esercizio ho usato un metodo diverso da quello indicato nella consegna per raggiungere prima il risultato richiesto (vedi file \M0_ambiente\es5-comandi.md e README.md).
 
 ## commit 13c06e0
 Questo commit è stato fatto quando ho terminato l'esercizio 6 del modulo M0 ma senza aver scritto la documentazione adeguata
