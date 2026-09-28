@@ -4,10 +4,10 @@ Questo repository verrà utilizzato per tutto l'anno scolastico 2026/2027 come r
 
 ### Organizzazione delle cartelle
 Il repository è organizzato per argomenti, ovvero per moduli. A ogni modulo è stata assegnata una directory diversa il cui nome è strutturato come segue:
-> M`<`modulo`>`_`<`argomento`>`
+> `M<modulo>_<argomento>`
 
 All'interno di ogni cartella destinata agli argomenti sono presenti tutti i file e tutta la documentazione richiesta dagli esercizi presenti nel pdf chiamato 
-> M`<`modulo`>`_Esercizi
+> `M<modulo>_Esercizi`
 
 ### Struttura delle directories
 ```
